@@ -34,7 +34,7 @@ cardImage = "https://techfather.com/avatar.png"
 [_.hero]
 title = "TechFath3r"
 subtitle = "Lost in the matrix,<br />found in the source code"
-image = "https://techfather.com/avatar.png"
+image = "https://avatars.githubusercontent.com/u/247890377?v=4"
 ctaText = "View Builds"
 ctaUrl = "/projects"
 
