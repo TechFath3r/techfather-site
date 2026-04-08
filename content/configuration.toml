@@ -2,54 +2,54 @@
 # we need to prefix all configuration keys with an underscore.
 
 [_.site]
-baseUrl = "http://zaggonaut.dev"
+baseUrl = "https://techfather.com"
 
 [_.globalMeta]
-title = "Zaggonaut"
-description = "Retro-Inspired Theme & Built for Astro"
-longDescription = "Zaggonaut is a retro-inspired theme for Astro, built using TypeScript, TailwindCSS, and Astro."
-cardImage = "https://zaggonaut.dev/michael-dam-unsplash.webp"
-keywords = ["web development", "design", "technology"]
+title = "TechFath3r"
+description = "Board-level repair tech, software engineer & SaaS founder."
+longDescription = "Dan Starr — board-level device repair tech, software engineer, and SaaS founder. Building RepairKeeper, homelabbing, and shipping code from Spalding, England."
+cardImage = "/avatar.png"
+keywords = ["repair tech", "software engineering", "SaaS", "homelab", "CTF", "AI"]
 
 [_.blogMeta]
-title = "Zaggonaut Blog"
-description = "Practical wisdom, unfiltered thoughts, and hot takes."
-longDescription = "Web development, tech trends, and the occasional programming mishap."
-cardImage = "https://zaggonaut.dev/michael-dam-unsplash.webp"
-keywords = ["web development", "design", "technology"]
+title = "TechFath3r — Logs"
+description = "CTF writeups, homelab experiments, AI observations, and dev notes."
+longDescription = "Logs from the terminal — CTF challenges, homelab tinkering, RepairKeeper development, and whatever else is on the workbench."
+cardImage = "/avatar.png"
+keywords = ["CTF", "homelab", "repair tech", "software engineering", "AI"]
 
 [_.projectMeta]
-title = "Zaggonaut Projects"
-description = "A list of my web development projects and developer tools."
-longDescription = "All of my projects, including both frontend and full-stack applications."
-cardImage = "https://zaggonaut.dev/michael-dam-unsplash.webp"
-keywords = ["web development", "design", "technology"]
+title = "TechFath3r — Builds"
+description = "Projects and things I've shipped."
+longDescription = "RepairKeeper, GarageKeeper, homelab infrastructure, and other things built along the way."
+cardImage = "/avatar.png"
+keywords = ["RepairKeeper", "SaaS", "homelab", "software engineering"]
 
 [_.notFoundMeta]
-title = "Zaggonaut 404"
+title = "TechFath3r — 404"
 description = "The page you are looking for does not exist."
-longDescription = "The page you are looking for does not exist. Maybe it never existed. Spooky."
-cardImage = "https://zaggonaut.dev/michael-dam-unsplash.webp"
+longDescription = "Lost in the matrix and can't find your way back. This page doesn't exist."
+cardImage = "/avatar.png"
 
 [_.hero]
-title = "Zaggonaut"
-subtitle = "Retro-Inspired Theme &<br />Built for Astro"
-image = "https://zaggonaut.dev/michael-dam-unsplash.webp"
-ctaText = "View Projects"
+title = "TechFath3r"
+subtitle = "Lost in the matrix,<br />found in the source code"
+image = "/avatar.png"
+ctaText = "View Builds"
 ctaUrl = "/projects"
 
 [_.personal]
-name = "Zaggonaut"
-githubProfile = "https://github.com/RATIU5/zaggonaut"
-twitterProfile = "https://twitter.com"
-linkedinProfile = "https://linkedin.com/"
+name = "Dan Starr"
+githubProfile = "https://github.com/TechFath3r"
+twitterProfile = "https://x.com/techfath3r"
+linkedinProfile = ""
 
 [_.texts]
-articlesName = "Articles"
-projectsName = "Projects"
+articlesName = "Logs"
+projectsName = "Builds"
 viewAll = "View All"
-noArticles = "No articles found."
-noProjects = "No projects found."
+noArticles = "No logs found."
+noProjects = "No builds found."
 
 [_.menu]
 home = "/"
