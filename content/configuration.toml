@@ -2,34 +2,34 @@
 # we need to prefix all configuration keys with an underscore.
 
 [_.site]
-baseUrl = "https://techfather.com"
+baseUrl = "https://techfath3r.com"
 
 [_.globalMeta]
 title = "TechFath3r"
 description = "Board-level repair tech, software engineer & SaaS founder."
 longDescription = "Dan Starr — board-level device repair tech, software engineer, and SaaS founder. Building RepairKeeper, homelabbing, and shipping code from Spalding, England."
-cardImage = "https://techfather.com/avatar.png"
+cardImage = "https://techfath3r.com/avatar.png"
 keywords = ["repair tech", "software engineering", "SaaS", "homelab", "CTF", "AI"]
 
 [_.blogMeta]
 title = "TechFath3r — Logs"
 description = "CTF writeups, homelab experiments, AI observations, and dev notes."
 longDescription = "Logs from the terminal — CTF challenges, homelab tinkering, RepairKeeper development, and whatever else is on the workbench."
-cardImage = "https://techfather.com/avatar.png"
+cardImage = "https://techfath3r.com/avatar.png"
 keywords = ["CTF", "homelab", "repair tech", "software engineering", "AI"]
 
 [_.projectMeta]
 title = "TechFath3r — Builds"
 description = "Projects and things I've shipped."
 longDescription = "RepairKeeper, GarageKeeper, homelab infrastructure, and other things built along the way."
-cardImage = "https://techfather.com/avatar.png"
+cardImage = "https://techfath3r.com/avatar.png"
 keywords = ["RepairKeeper", "SaaS", "homelab", "software engineering"]
 
 [_.notFoundMeta]
 title = "TechFath3r — 404"
 description = "The page you are looking for does not exist."
 longDescription = "Lost in the matrix and can't find your way back. This page doesn't exist."
-cardImage = "https://techfather.com/avatar.png"
+cardImage = "https://techfath3r.com/avatar.png"
 
 [_.hero]
 title = "TechFath3r"
